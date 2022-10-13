@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079137965145",
+    "project_id": "reels-70e95",
+    "storage_bucket": "reels-70e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079137965145:android:241452e25134d5e40b0d48",
+        "android_client_info": {
+          "package_name": "com.example.reelers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079137965145-l56tavcugma4krpjrl9t3rkcimpf6c7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKYNi0Y_M7iiby6Me6NnEG451Ikc2-oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079137965145-l56tavcugma4krpjrl9t3rkcimpf6c7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
